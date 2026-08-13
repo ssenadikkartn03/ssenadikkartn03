@@ -1,6 +1,6 @@
-<h1 align="center">Merhaba, Ben Ayşe Sena! 👋</h1>
+<h1 align="center">Merhaba, Ben Ayşe Sena </h1>
 
-<h3 align="center">Veri Bilimi Tutkunu | İstatistik Öğrencisi | Hacettepe Üniversitesi</h3>
+<h3 align="center">Veri Bilimi | İstatistik Öğrencisi | Hacettepe Üniversitesi</h3>
 
 <p align="center">
   Verileri anlamlandırmayı, otomasyon süreçleri kurgulamayı ve makine öğrenmesi modelleriyle tahminler üretmeyi seven bir veri meraklısıyım. 
@@ -20,18 +20,18 @@
 
 ---
 
-## 👩‍💻 Hakkımda
+## Hakkımda
 
-- 🎓 **Hacettepe Üniversitesi'nde** İstatistik bölümü son sınıf öğrencisiyim.
-- 💼 Şu anda İstanbul merkezli **FurtherUp'ta** Müşteri Operasyonları ve İş Analisti olarak görev yapıyor, operasyonel süreçleri ve veri yönetimini üstleniyorum.
-- 🤖 **Hacettepe Üniversitesi Yapay Zeka Topluluğu'nda** Medya ve Tanıtım Komisyonu Koordinatörü olarak süreç yönetimi ve organizasyon yapıyorum.
-- ⚽ Veri tabanlı futbol scouting ve spor analitiği (Sports Analytics) alanlarına özel bir ilgim var.
-- 💻 **Sigmatic Analytics** gibi Python tabanlı veri otomasyonu ve pazar analizi projeleri geliştiriyorum. Ayrıca web scraping ve veri madenciliği üzerine serbest (freelance) çalışmalar yapıyorum.
-- 🌱 Şu sıralar **Makine Öğrenmesi (Machine Learning)** yeteneklerimi geliştirmek ve veri mimarisi üzerine derinleşmekle meşgulüm.
+-  **Hacettepe Üniversitesi'nde** İstatistik bölümü son sınıf öğrencisiyim.
+-  Şu anda İstanbul merkezli **FurtherUp'ta** Müşteri Operasyonları ve İş Analisti olarak görev yapıyor, operasyonel süreçleri ve veri yönetimini üstleniyorum.
+-  **Hacettepe Üniversitesi Yapay Zeka Topluluğu'nda** Medya ve Tanıtım Komisyonu Koordinatörü olarak süreç yönetimi ve organizasyon yapıyorum.
+-  Veri tabanlı futbol scouting ve spor analitiği (Sports Analytics) alanlarına özel bir ilgim var.
+-  **Sigmatic Analytics** gibi Python tabanlı veri otomasyonu ve pazar analizi projeleri geliştiriyorum. Ayrıca web scraping ve veri madenciliği üzerine serbest (freelance) çalışmalar yapıyorum.
+-  Şu sıralar **Makine Öğrenmesi (Machine Learning)** yeteneklerimi geliştirmek ve veri mimarisi üzerine derinleşmekle meşgulüm.
 
 ---
 
-## 🛠️ Yetenekler & Araçlar
+##  Yetenekler & Araçlar
 
 **Programlama Dilleri & Veritabanı:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -50,14 +50,11 @@
 
 ---
 
-## 📈 GitHub İstatistiklerim
+##  GitHub İstatistiklerim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ssenadikkartn03&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssenadikkartn03&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
----
-<p align="center">
-  <i>"Verinin olduğu her yerde, keşfedilecek bir hikaye vardır."</i>
-</p>
+
