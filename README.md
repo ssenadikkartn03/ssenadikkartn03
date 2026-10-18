@@ -2,9 +2,6 @@
 
 <h3 align="center">Veri Bilimi | İstatistik Öğrencisi | Hacettepe Üniversitesi</h3>
 
-<p align="center">
-  Verileri anlamlandırmayı, otomasyon süreçleri kurgulamayı ve makine öğrenmesi modelleriyle tahminler üretmeyi seven bir veri meraklısıyım. 
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]" target="_blank">
@@ -13,9 +10,6 @@
   <a href="mailto:[E-POSTA_ADRESIN]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[BIONLUK_VEYA_PORTFOLYO_LINKIN]" target="_blank">
-    <img src="https://img.shields.io/badge/Bionluk-FF6600?style=for-the-badge&logo=freelancer&logoColor=white" alt="Bionluk Freelance" />
-  </a>
 </p>
 
 ---
@@ -23,7 +17,6 @@
 ## Hakkımda
 
 -  **Hacettepe Üniversitesi'nde** İstatistik bölümü son sınıf öğrencisiyim.
--  Şu anda İstanbul merkezli **FurtherUp'ta** Müşteri Operasyonları ve İş Analisti olarak görev yapıyor, operasyonel süreçleri ve veri yönetimini üstleniyorum.
 -  **Hacettepe Üniversitesi Yapay Zeka Topluluğu'nda** Medya ve Tanıtım Komisyonu Koordinatörü olarak süreç yönetimi ve organizasyon yapıyorum.
 -  Veri tabanlı futbol scouting ve spor analitiği (Sports Analytics) alanlarına özel bir ilgim var.
 -  **Sigmatic Analytics** gibi Python tabanlı veri otomasyonu ve pazar analizi projeleri geliştiriyorum. Ayrıca web scraping ve veri madenciliği üzerine serbest (freelance) çalışmalar yapıyorum.
